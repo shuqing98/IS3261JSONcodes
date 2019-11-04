@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Store 1",
+    "food": [
+      {
+        "name": "Chicken Rice",
+        "price": "3.20",
+      },
+      {
+        "name": "Duck Rice",
+        "price": "3.50",
+      },
+      {
+        "name": "Hokkien Mee",
+        "price": "4.00",
+      },
+    ]
+  }
