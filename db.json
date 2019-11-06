@@ -13,6 +13,6 @@
   },
   "stores" :[
     { "id": 1, "name": "Store 1", "food": [ {"name": "Chicken Rice", "price" : "3.20"}, {"name": "Duck Rice", "price": "3.50"}, {"name": "Hokkien Mee", "price": "4.00"}] },
-    { "id": 2, "name": "Store 2", "food": [ {"name": "Ice Milo", "price" : "1.50"},{"name": "Milo Dinosaur", "price" : "2.30"}, {"name": "Ice Lemon Tea", "price": "1.20"}, {"name": "Ice Green Tea", "price": "1.20"}, {"name": "Teh Tarik", "price": "0.90"}, {"name": "Kopi", "price": "0.90"}, {"name": "Kopi-O", "price": "0.90"}, {"name": "Kopi-C", "price": "0.90"},  {"name": "Kopi-siu-dai", "price": "0.90"} ] }
+    { "id": 2, "name": "Store 2", "food": [ {"name": "Ice Milo", "price" : "1.50"},{"name": "Milo Dinosaur", "price" : "3.00"}, {"name": "Ice Lemon Tea", "price": "1.20"}, {"name": "Ice Green Tea", "price": "1.20"}, {"name": "Teh Tarik", "price": "0.90"}, {"name": "Kopi", "price": "0.90"}, {"name": "Kopi-O", "price": "0.90"}, {"name": "Kopi-C", "price": "0.90"},  {"name": "Kopi-siu-dai", "price": "0.90"} ] }
   ]
 }
