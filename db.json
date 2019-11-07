@@ -7,13 +7,18 @@
         {
           "price": "4.00",
           "name": "Chicken Rice",
-          "ingredients": [
-            {
-              "ingredient1": "Protein",
-              "ingredient2": "Whole Grains",
-              "ingredient3": "Vegetables"
-            }
-          ]
+//          "ingredients": [
+//            {
+//              "ingredient1": "Protein",
+//              "ingredient2": "Whole Grains",
+//              "ingredient3": "Vegetables"
+//            }
+//          ]
+           "ingredients": [
+             "Protein", 
+             "Whole Grains",
+             "Vegetables"
+           ]
         },
         {
           "price": "3.50",
