@@ -7,7 +7,7 @@
         {
           "price": "4.00",
           "name": "Chicken Rice",
-          "ingredients": [ "Protein",  "Whole Grains", "Vegetables"]
+          "ingredients": [ "Protein", "Whole Grains", "Vegetables"]
         },
         {
           "price": "3.50",
@@ -23,31 +23,17 @@
         {
           "price": "2.50",
           "name": "French Fries",
-          "ingredients": [
-            {
-              "ingredient1": "Refined Carbohydrates"
-            }
-          ]
+          "ingredients": ["Refined Carbohydrates"]
         },
         {
           "price": "3.00",
           "name": "Cheese Fries",
-          "ingredients": [
-            {
-              "ingredient1": "Refined Carbohydrates",
-              "ingredient2": "Dairy"
-            }
-          ]
+          "ingredients": ["Refined Carbohydrates", "Dairy"]
         },
         {
           "price": "5.00",
           "name": "Spaghetti",
-          "ingredients": [
-            {
-              "ingredient1": "Refined Carbohydrates",
-              "ingredient2": "Spices & Herbs"
-            }
-          ]
+          "ingredients": ["Refined Carbohydrates", "Spices & Herbs"]
         }
       ]
     },
@@ -58,58 +44,32 @@
         {
           "price": "1.00",
           "name": "Watermelon",
-          "ingredients": [
-            {
-              "ingredient1": "Fruits"
-            }
-          ]
+          "ingredients": ["Fruits"]
         },
         {
           "price": "0.80",
           "name": "Apple",
-          "ingredients": [
-            {
-              "ingredient1": "Fruits"
-            }
-          ]
+          "ingredients": ["Fruits"]
         },
         {
           "price": "0.70",
           "name": "Papaya",
-          "ingredients": [
-            {
-              "ingredient1": "Fruits"
-            }
-          ]
+          "ingredients": ["Fruits"]
         },
         {
           "price": "2.00",
           "name": "Fresh Milk 500ml",
-          "ingredients": [
-            {
-              "ingredient1": "Dairy"
-            }
-          ]
+          "ingredients": ["Dairy"]
         },
         {
           "price": "1.50",
           "name": "Teh",
-          "ingredients": [
-            {
-              "ingredient1": "Tea",
-              "ingredient2": "Sugar"
-            }
-          ]
+          "ingredients": ["Tea", "Sugar"]
         },
         {
           "price": "1.10",
           "name": "Pokka Green Tea",
-          "ingredients": [
-            {
-              "ingredient1": "Tea",
-              "ingredient2": "Sugar"
-            }
-          ]
+          "ingredients": ["Tea", "Sugar"]
         }
       ]
     },
@@ -120,28 +80,12 @@
         {
           "price": "1.50",
           "name": "Peanut Butter Cookies",
-          "ingredients": [
-            {
-              "ingredient1": "Whole Grains",
-              "ingredient2": "Dairy",
-              "ingredient3": "Healthy Fats",
-              "ingredient4": "Sugar",
-              "ingredient5": "Refined Carbohydrates"
-            }
-          ]
+          "ingredients": ["Whole Grains", "Dairy", "Healthy Fats", "Sugar", "Refined Carbohydrates"]
         },
         {
           "price": "3.00",
           "name": "Chocolate Coconut Pound Cake Slice",
-          "ingredients": [
-            {
-              "ingredient1": "Whole Grains",
-              "ingredient2": "Dairy",
-              "ingredient3": "Healthy Fats",
-              "ingredient4": "Sugar",
-              "ingredient5": "Refined Carbohydrates"
-            }
-          ]
+          "ingredients": ["Whole Grains", "Dairy", "Healthy Fats", "Sugar", "Refined Carbohydrates"]
         }
       ]
     }
