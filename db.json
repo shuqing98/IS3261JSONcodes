@@ -1,94 +1,161 @@
 {
-   "stores":[
-      {
-         "id":1,
-         "name":"Store 1",
-         "food":[
-            {
-               "name":"Chicken Rice",
-               "price":"3.20"
-            },
-            {
-               "name":"Duck Rice",
-               "price":"3.50"
-            },
-            {
-               "name":"Hokkien Mee",
-               "price":"4.00"
-            }
-         ]
-      },
-      {
-         "id":2,
-         "name":"Store 2",
-         "food":[
-            {
-               "name":"Ice Milo",
-               "price":"1.50"
-            },
-            {
-               "name":"Milo Dinosaur",
-               "price":"3.00"
-            },
-            {
-               "name":"Ice Lemon Tea",
-               "price":"1.20"
-            },
-            {
-               "name":"Ice Green Tea",
-               "price":"1.20"
-            },
-            {
-               "name":"Teh Tarik",
-               "price":"0.90"
-            },
-            {
-               "name":"Kopi",
-               "price":"0.90"
-            },
-            {
-               "name":"Kopi-O",
-               "price":"0.90"
-            },
-            {
-               "name":"Kopi-C",
-               "price":"0.90"
-            },
-            {
-               "name":"Kopi-siu-dai",
-               "price":"0.90"
-            }
-         ]
-      },
-{
-  "id": 3,
-  "name": "Store 3",
-  "foodList": [
+  "stores": [
     {
-      "price": "5.00",
-      "name": "Milo",
-      "ingredients": [
+      "id": "1",
+      "name": "Singapore Delight",
+      "foodList": [
         {
-          "ingredient1": "veggie"
+          "price": "4.00",
+          "name": "Chicken Rice",
+          "ingredients": [
+            {
+              "ingredient1": "Protein",
+              "ingredient2": "Whole Grains",
+              "ingredient3": "Vegetables"
+            }
+          ]
         },
         {
-          "ingredient2": "meat"
+          "price": "3.50",
+          "name": "Duck Rice",
+          "ingredients": [
+            {
+              "ingredient1": "Protein",
+              "ingredient2": "Whole Grains",
+              "ingredient3": "Vegetables"
+            }
+          ]
         }
       ]
     },
     {
-      "price": "4.00",
-      "name": "FriedRICE",
-      "ingredients": [
+      "id": "2",
+      "name": "Western Stall",
+      "foodList": [
         {
-          "ingredient1": "veggie1"
+          "price": "2.50",
+          "name": "French Fries",
+          "ingredients": [
+            {
+              "ingredient1": "Refined Carbohydrates"
+            }
+          ]
         },
         {
-          "ingredient2": "meat1"
+          "price": "3.00",
+          "name": "Cheese Fries",
+          "ingredients": [
+            {
+              "ingredient1": "Refined Carbohydrates",
+              "ingredient2": "Dairy"
+            }
+          ]
+        },
+        {
+          "price": "5.00",
+          "name": "Spaghetti",
+          "ingredients": [
+            {
+              "ingredient1": "Refined Carbohydrates",
+              "ingredient2": "Spices & Herbs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Fruits & Drinks Stall",
+      "foodList": [
+        {
+          "price": "1.00",
+          "name": "Watermelon",
+          "ingredients": [
+            {
+              "ingredient1": "Fruits"
+            }
+          ]
+        },
+        {
+          "price": "0.80",
+          "name": "Apple",
+          "ingredients": [
+            {
+              "ingredient1": "Fruits"
+            }
+          ]
+        },
+        {
+          "price": "0.70",
+          "name": "Papaya",
+          "ingredients": [
+            {
+              "ingredient1": "Fruits"
+            }
+          ]
+        },
+        {
+          "price": "2.00",
+          "name": "Fresh Milk 500ml",
+          "ingredients": [
+            {
+              "ingredient1": "Dairy"
+            }
+          ]
+        },
+        {
+          "price": "1.50",
+          "name": "Teh",
+          "ingredients": [
+            {
+              "ingredient1": "Tea",
+              "ingredient2": "Sugar"
+            }
+          ]
+        },
+        {
+          "price": "1.10",
+          "name": "Pokka Green Tea",
+          "ingredients": [
+            {
+              "ingredient1": "Tea",
+              "ingredient2": "Sugar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Desert Stall",
+      "foodList": [
+        {
+          "price": "1.50",
+          "name": "Peanut Butter Cookies",
+          "ingredients": [
+            {
+              "ingredient1": "Whole Grains",
+              "ingredient2": "Dairy",
+              "ingredient3": "Healthy Fats",
+              "ingredient4": "Sugar",
+              "ingredient5": "Refined Carbohydrates"
+            }
+          ]
+        },
+        {
+          "price": "3.00",
+          "name": "Chocolate Coconut Pound Cake Slice",
+          "ingredients": [
+            {
+              "ingredient1": "Whole Grains",
+              "ingredient2": "Dairy",
+              "ingredient3": "Healthy Fats",
+              "ingredient4": "Sugar",
+              "ingredient5": "Refined Carbohydrates"
+            }
+          ]
         }
       ]
     }
   ]
-}
-   ]
 }
