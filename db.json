@@ -60,47 +60,35 @@
             }
          ]
       },
-      {
-         "id":3,
-         "name":"Store 3",
-         "foodList":{
-            "Food1":[
-               {
-                  "price":"3.00"
-               },
-                {
-                  "name":"IceMilo"
-               },
-               {
-                  "ingredients":[
-                     {
-                        "ingredient1":"veggie"
-                     },
-                     {
-                        "ingredient2":"meat"
-                     }
-                  ]
-               }
-            ],
-            "Food2":[
-               {
-                  "price":"4.00"
-               },
-                 {
-                  "name":"FriedRICE"
-               },
-               {
-                  "ingredients":[
-                     {
-                        "ingredient1":"veggie1"
-                     },
-                     {
-                        "ingredient2":"meat1"
-                     }
-                  ]
-               }
-            ]
-         }
-      }
+{
+  "id": 3,
+  "name": "Store 3",
+  "foodList": [
+    {
+      "price": "5.00",
+      "name": "Milo",
+      "ingredients": [
+        {
+          "ingredient1": "veggie"
+        },
+        {
+          "ingredient2": "meat"
+        }
+      ]
+    },
+    {
+      "price": "4.00",
+      "name": "FriedRICE",
+      "ingredients": [
+        {
+          "ingredient1": "veggie1"
+        },
+        {
+          "ingredient2": "meat1"
+        }
+      ]
+    }
+  ]
+}
    ]
 }
