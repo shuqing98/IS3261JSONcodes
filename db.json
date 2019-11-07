@@ -7,22 +7,12 @@
         {
           "price": "4.00",
           "name": "Chicken Rice",
-          "ingredients": [
-             "Protein", 
-             "Whole Grains",
-             "Vegetables"
-           ]
+          "ingredients": [ "Protein",  "Whole Grains", "Vegetables"]
         },
         {
           "price": "3.50",
           "name": "Duck Rice",
-          "ingredients": [
-            {
-              "ingredient1": "Protein",
-              "ingredient2": "Whole Grains",
-              "ingredient3": "Vegetables"
-            }
-          ]
+          "ingredients": ["Protein", "Whole Grains", "Vegetables"]
         }
       ]
     },
