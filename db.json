@@ -7,14 +7,7 @@
         {
           "price": "4.00",
           "name": "Chicken Rice",
-//          "ingredients": [
-//            {
-//              "ingredient1": "Protein",
-//              "ingredient2": "Whole Grains",
-//              "ingredient3": "Vegetables"
-//            }
-//          ]
-           "ingredients": [
+          "ingredients": [
              "Protein", 
              "Whole Grains",
              "Vegetables"
