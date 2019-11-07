@@ -64,9 +64,12 @@
          "id":3,
          "name":"Store 3",
          "foodList":{
-            "IceMilo":[
+            "Food1":[
                {
                   "price":"3.00"
+               },
+                {
+                  "name":"IceMilo"
                },
                {
                   "ingredients":[
@@ -79,9 +82,12 @@
                   ]
                }
             ],
-            "Coke":[
+            "Food2":[
                {
                   "price":"4.00"
+               },
+                 {
+                  "name":"FriedRICE"
                },
                {
                   "ingredients":[
