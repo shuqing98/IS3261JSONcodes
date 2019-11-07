@@ -78,6 +78,21 @@
                      }
                   ]
                }
+            ],
+            "Coke":[
+               {
+                  "price":"4.00"
+               },
+               {
+                  "ingredients":[
+                     {
+                        "ingredient1":"veggie1"
+                     },
+                     {
+                        "ingredient2":"meat1"
+                     }
+                  ]
+               }
             ]
          }
       }
